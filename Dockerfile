@@ -1,4 +1,4 @@
-FROM ubuntu:18.10
+FROM ubuntu:rolling
 LABEL maintainer "Sharedcloud <admin@sharedcloud.io>"
 
 RUN \
